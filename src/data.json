@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "data": "this is data #1",
+    "public": true
+  },
+  {
+    "id": 2,
+    "data": "this is data #2",
+    "public": true
+  },
+  {
+    "id": 3,
+    "data": "this is data #3",
+    "public": false
+  }
+]
